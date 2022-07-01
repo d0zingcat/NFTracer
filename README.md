@@ -15,7 +15,7 @@ We Analyze, Action and A__?
     - [ ] 日报
       - [ ] 资产变化
       - [ ] 重点项目
-- 行为
+- [ ] 行为
     - [ ] MEV 机器人
 
 Build by @d0zingcat with love in 2022.
